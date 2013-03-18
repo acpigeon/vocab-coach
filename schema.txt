@@ -1,0 +1,14 @@
+tblVocab
+vocab_id | canonical_id | vocabulary | part_of_speech | type/person | gender | language
+
+tblRoot
+canonical_id | root
+
+tblContext
+context_id | contextø
+
+tblTags
+tag_id | tag
+
+tblRecall
+recall_id | vocab_id | date | fail_type
